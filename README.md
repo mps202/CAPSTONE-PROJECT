@@ -1,4 +1,4 @@
-# CAPSTONE-PROJECT
+# EMPLOYEE CHURN
 
 Capstone project scenario overview: Working for Salifort Motors     
 About the company
