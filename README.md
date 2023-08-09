@@ -10,4 +10,4 @@ As a data specialist working for Salifort Motors, you have received the results 
 The value of your deliverable
 For this deliverable, you are asked to choose a method to approach this data challenge based on your prior course work. Select either a regression model or a machine learning model to predict whether an employee will leave the company. Both approaches are shown in the project exemplar, but only one is needed to complete your project.
 
-The capstone project will provide you with valuable experience and data analysis examples that you can share with potential employers.
+
